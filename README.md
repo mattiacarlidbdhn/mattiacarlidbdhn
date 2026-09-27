@@ -7,13 +7,20 @@ Benvenuto sul mio profilo GitHub! Qui puoi trovare i miei progetti personali, i 
 ## 🛠️ Le Mie Competenze / Skills
 
 ### 💻 Linguaggi di Programmazione
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* **C++**
+* **Python**
+* **HTML5**
+* **CSS3**
 
 ### 🐧 Sistemi Operativi & Ambiente Mobile
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* **Ubuntu**
+* **Kali Linux**
+* **Linux Mint**
+* **AnduinOS**
+* **GrapheneOS**
 
 ### 🔌 Hardware & IoT
-<img src="https://shields.io" />
+* **Arduino**
 
 ---
 
@@ -21,11 +28,5 @@ Benvenuto sul mio profilo GitHub! Qui puoi trovare i miei progetti personali, i 
 
 Attualmente sto studiando e approfondendo queste tecnologie per ampliare il mio percorso formativo:
 
-<img src="https://shields.io" /> <img src="https://shields.io" />
-
----
-
-## 📊 Statistiche GitHub
-<p align="left">
-  <img src="https://vercel.app" height="150" alt="stats" />
-</p>
+* **Java**
+* **JavaScript**
