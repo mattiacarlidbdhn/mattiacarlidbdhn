@@ -1,32 +1,32 @@
-# Ciao! Sono un Appassionato di Tecnologia e Sviluppo 👋
+<div align="center">
 
-Benvenuto sul mio profilo GitHub! Qui puoi trovare i miei progetti personali, i software con cui sperimento ogni giorno e le tecnologie che sto approfondendo.
+# Ciao, sono mattiacarlidbdhn! 👋
 
----
+[![GitHub](https://shields.io)](https://github.com)
 
-## 🛠️ Le Mie Competenze / Skills
+</div>
 
-### 💻 Linguaggi di Programmazione
-* **C++**
-* **Python**
-* **HTML5**
-* **CSS3**
+## About Me 🚀
 
-### 🐧 Sistemi Operativi & Ambiente Mobile
-* **Ubuntu**
-* **Kali Linux**
-* **Linux Mint**
-* **AnduinOS**
-* **GrapheneOS**
-
-### 🔌 Hardware & IoT
-* **Arduino**
+Sono un appassionato di tecnologia e sviluppo software. Mi piace sperimentare con diversi sistemi operativi, configurazioni hardware e ampliare costantemente le mie competenze nel mondo della programmazione e della sicurezza informatica.
 
 ---
 
-## 📚 Sto Imparando / Learning Now
+## Technologies I Know 🛠️
 
-Attualmente sto studiando e approfondendo queste tecnologie per ampliare il mio percorso formativo:
+### Software & Programming:
+![C++](https://shields.io) ![Python](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
-* **Java**
-* **JavaScript**
+### Operating Systems:
+![Ubuntu](https://shields.io) ![Kali Linux](https://shields.io) ![Linux Mint](https://shields.io) ![AnduinOS](https://shields.io) ![GrapheneOS](https://shields.io)
+
+### Hardware & IoT:
+![Arduino](https://shields.io)
+
+---
+
+## Technologies I'm Learning 📚
+
+Sto studiando e approfondendo queste tecnologie per ampliare il mio percorso:
+
+![Java](https://shields.io) ![JavaScript](https://shields.io)
