@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🛠️ Le Mie Competenze / Skills
 
-<!--
-**mattiacarlidbdhn/mattiacarlidbdhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Linguaggi di Programmazione
+![C++](https://shields.io)
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
-Here are some ideas to get you started:
+### 🐧 Sistemi Operativi & Ambiente Mobile
+![Ubuntu](https://shields.io)
+![Kali Linux](https://shields.io)
+![Linux Mint](https://shields.io)
+![AnduinOS](https://shields.io) 
+![GrapheneOS](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔌 Hardware & IoT
+![Arduino](https://shields.io)
+
+---
+
+## 📚 Sto Imparando / Learning Now
+
+Attualmente sto studiando e approfondendo queste tecnologie per ampliare il mio percorso:
+
+![Java](https://shields.io)
+![JavaScript](https://shields.io)
