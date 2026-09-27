@@ -29,6 +29,7 @@ Ciao! Sono Mattia, appassionato di sviluppo software e sistemi Linux. Mi piace s
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint"/>
   <img src="https://img.shields.io/badge/AnduinOS-2E3440?style=for-the-badge&logo=linux&logoColor=white" alt="AnduinOS"/>
   <img src="https://img.shields.io/badge/GrapheneOS-000000?style=for-the-badge&logo=android&logoColor=white" alt="GrapheneOS"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 <p><strong>Hardware:</strong></p>
