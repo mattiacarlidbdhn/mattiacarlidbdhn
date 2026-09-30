@@ -8,7 +8,7 @@
 <hr>
 
 <p>
-Hi! I'm Mattia, a software development and Linux systems enthusiast. I enjoy experimenting with different operating environments and programming languages, and I'm always ready to learn new technologies.
+Hi! I'm Metco, a software development and Linux systems enthusiast. I enjoy experimenting with different operating environments and programming languages, and I'm always ready to learn new technologies.
 </p>
 
 <h2>🛠️ Technologies I Know</h2>
