@@ -1,20 +1,20 @@
-<h1 align="center">Ciao, sono Mattia! 👋</h1>
+<h1 align="center">Hi, I'm Metco! 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-mattiacarlidbdhn-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </p>
 
-<h2>🧑‍💻 Chi sono</h2>
+<h2>🧑‍💻 About Me</h2>
 <hr>
 
 <p>
-Ciao! Sono Mattia, appassionato di sviluppo software e sistemi Linux. Mi piace sperimentare con diversi ambienti operativi e linguaggi di programmazione, e sono sempre curioso di imparare nuove tecnologie.
+Hi! I'm Mattia, a software development and Linux systems enthusiast. I enjoy experimenting with different operating environments and programming languages, and I'm always ready to learn new technologies.
 </p>
 
-<h2>🛠️ Tecnologie che conosco</h2>
+<h2>🛠️ Technologies I Know</h2>
 <hr>
 
-<p><strong>Linguaggi:</strong></p>
+<p><strong>Languages:</strong></p>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -22,7 +22,7 @@ Ciao! Sono Mattia, appassionato di sviluppo software e sistemi Linux. Mi piace s
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<p><strong>Sistemi operativi:</strong></p>
+<p><strong>Operating Systems:</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
@@ -37,7 +37,7 @@ Ciao! Sono Mattia, appassionato di sviluppo software e sistemi Linux. Mi piace s
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </p>
 
-<h2>📚 Tecnologie che sto imparando</h2>
+<h2>📚 Technologies I'm Learning</h2>
 <hr>
 
 <p>
