@@ -11,6 +11,13 @@
 Hi! I'm Metco, a software development and Linux systems enthusiast. I enjoy experimenting with different operating environments and programming languages, and I'm always ready to learn new technologies.
 </p>
 
+<div align="center">
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=mattiacarlidbdhn&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00bfff&icon_color=00bfff&text_color=00bfff&bg_color=0d1117) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiacarlidbdhn&layout=compact&theme=dark&hide_border=true&title_color=00bfff&text_color=00bfff&bg_color=0d1117) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mattiacarlidbdhn&theme=dark&hide_border=true&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=00bfff&currStreakNum=00bfff&sideNums=00bfff&dates=00bfff) |
+| :---: | :---: | :---: |
+
+</div>
+
 <h2>🛠️ Technologies I Know</h2>
 <hr>
 
